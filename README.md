@@ -1,2 +1,0 @@
-# KirbyGame
-Using TypeScript
